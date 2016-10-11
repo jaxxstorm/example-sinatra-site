@@ -2,7 +2,7 @@ FROM ruby:2.3.1
 
 MAINTAINER jaxxstorm "https://github.com/jaxxstorm"
 
-ARG APP_VERSION=0.1
+ARG APP_VERSION=0.2
 
 ENV APP_VERSION ${APP_VERSION}
 
